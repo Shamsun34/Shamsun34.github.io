@@ -265,6 +265,7 @@ a:after {
 } 
 
 .container h3{
+    letter-spacing: 0.5px;
 	color: #ad1414;
 }
 
